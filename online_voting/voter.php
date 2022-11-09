@@ -13,7 +13,7 @@
 
 <html>
 <head>
-<title>online voting</title>
+<title>CYBER ONLINE VOTING</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
@@ -43,8 +43,8 @@
     </div>
     <div class="fl_right">
       <ul class="nospace inline pushright">
-        <li><i class="fa fa-phone"></i> +8801773254014</li>
-        <li><i class="fa fa-envelope-o"></i> r.haque.249.rh@gmail.com </li>
+        <li><i class="fa fa-phone"></i> +263772627916</li>
+        <li><i class="fa fa-envelope-o"></i> ryangambinga@gmail.com </li>
       </ul>
     </div>
     <!-- ################################################################################################ -->
@@ -108,11 +108,12 @@
         <li><i class="fa fa-map-marker"></i>
           <address>
          
+        
           <p>
-          Name        : Md. Rezwanul Haque <br>
-          University  : KUET <br>
-          Batch       : 2k14 <br>
-          Dept        : CSE <br>
+          Name        : Ryan Gambinga<br>
+          University  : MSU <br>
+          Batch       : 2022 <br>
+          Dept        : INFO <br>
           </p>
           </address>
         </li>
@@ -122,9 +123,8 @@
     <div class="one_third">
       <h6 class="title">Phone</h6>
       <ul class="nospace linklist contact">
-       
-        <li><i class="fa fa-phone"></i> +8801773254014<br>
-          +8801521479574</li>
+      <li><i class="fa fa-phone"></i> +263772627916<br>
+          +263774505012</li>
 
 
       </ul>
@@ -134,7 +134,7 @@
       <h6 class="title">Email</h6>
       <ul class="nospace linklist contact">
         
-        <li><i class="fa fa-envelope-o"></i> r.haque.249.rh@gmail.com </li>
+      <li><i class="fa fa-envelope-o"></i> ryangambinga@gmail.com </li>
 
       </ul>
     </div>
@@ -149,8 +149,7 @@
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
     <!-- ################################################################################################ -->
-    <p class="fl_left">Copyright &copy; 2017 - All Rights Reserved - <a href="#">Md. Rezwanul Haque</a></p>
-    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <p class="fl_left">Copyright &copy; 2022- All Rights Reserved - <a href="#">Ryan Gambinga</a></p>
     <!-- ################################################################################################ -->
   </div>
 </div>

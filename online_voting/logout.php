@@ -37,8 +37,8 @@
     </div>
     <div class="fl_right">
       <ul class="nospace inline pushright">
-        <li><i class="fa fa-phone"></i> +8801773254014</li>
-        <li><i class="fa fa-envelope-o"></i> r.haque.249.rh@gmail.com </li>
+        <li><i class="fa fa-phone"></i> +263772627916</li>
+        <li><i class="fa fa-envelope-o"></i> ryangambinga@gmail.com</li>
       </ul>
     </div>
     <!-- ################################################################################################ -->
@@ -51,7 +51,7 @@
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div id="logo" class="fl_left">
-      <h1><a href="index.html">ONLINE VOTING</a></h1>
+      <h1><a href="index.html">ONLINE VOTING SYSTEM</a></h1>
     </div>
     <!-- ################################################################################################ -->
     <nav id="mainav" class="fl_right">
@@ -70,7 +70,7 @@
 <div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/background1.jpg');">
   <section id="testimonials" class="hoc container clear"> 
     <!-- ################################################################################################ -->
-    <h2 class="font-x3 uppercase btmspace-80 underlined"> Online <a href="#">Voting</a></h2>
+    <h2 class="font-x3 uppercase btmspace-80 underlined"> Online  Cyber <a href="#">Voting</a></h2>
     <ul class="nospace group">
       <li class="one_half">
         <blockquote>
@@ -108,10 +108,10 @@
           <address>
          
           <p>
-          Name        : Md. Rezwanul Haque <br>
-          University  : KUET <br>
-          Batch       : 2k14 <br>
-          Dept        : CSE <br>
+          Name        : Mr. Ryan Gambinga <br>
+          University  : MSU <br>
+          Batch       : 2022 <br>
+          Dept        : INFO <br>
           </p>
           </address>
         </li>
@@ -122,8 +122,8 @@
       <h6 class="title">Phone</h6>
       <ul class="nospace linklist contact">
        
-        <li><i class="fa fa-phone"></i> +8801773254014<br>
-          +8801521479574</li>
+        <li><i class="fa fa-phone"></i> +263772627916<br>
+          +263772627916</li>
 
 
       </ul>
@@ -133,7 +133,7 @@
       <h6 class="title">Email</h6>
       <ul class="nospace linklist contact">
         
-        <li><i class="fa fa-envelope-o"></i> r.haque.249.rh@gmail.com </li>
+        <li><i class="fa fa-envelope-o"></i> ryangambinga@gmail.com </li>
 
       </ul>
     </div>
@@ -148,8 +148,7 @@
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
     <!-- ################################################################################################ -->
-    <p class="fl_left">Copyright &copy; 2017 - All Rights Reserved - <a href="#">Md. Rezwanul Haque</a></p>
-    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <p class="fl_left">Copyright &copy; 2022 - All Rights Reserved - <a href="#">Mr. Ryan Gambinga</a></p>
     <!-- ################################################################################################ -->
   </div>
 </div>
